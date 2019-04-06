@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/images/background1.png</file>
+        <file>Resources/images/background2.png</file>
+        <file>Resources/images/close.png</file>
+        <file>Resources/images/close_hover.png</file>
+        <file>Resources/images/minimize.png</file>
+        <file>Resources/images/minimize_hover.png</file>
+        <file>Resources/icon/main.ico</file>
+        <file>Resources/images/login.png</file>
+        <file>Resources/images/login_hover.png</file>
+        <file>Resources/images/login_pressed.png</file>
+        <file>Resources/images/accountEdit.png</file>
+        <file>Resources/images/passwordEdit.png</file>
+        <file>Resources/images/mainWindow.png</file>
+        <file>Resources/images/openFileBtn.png</file>
+        <file>Resources/images/openFileBtn_pressed.png</file>
+        <file>Resources/images/videoBtn.png</file>
+        <file>Resources/images/videoBtn_hover.png</file>
+        <file>Resources/images/videoBtn_pressed.png</file>
+        <file>Resources/images/videoLabel.png</file>
+        <file>Resources/images/picLabel.png</file>
+        <file>Resources/images/videoLabel_pressed.png</file>
+        <file>Resources/images/playBtn.png</file>
+        <file>Resources/images/playBtn_pressed.png</file>
+        <file>Resources/images/faceConBtn.png</file>
+        <file>Resources/images/faceConBtn_pressed.png</file>
+        <file>Resources/images/hover_photograph_button.png</file>
+        <file>Resources/images/hover_play_button.png</file>
+        <file>Resources/images/normal_photograph_button.png</file>
+        <file>Resources/images/normal_play_button.png</file>
+        <file>Resources/images/pressed_photograph_button.png</file>
+        <file>Resources/images/pressed_play_button.png</file>
+        <file>Resources/images/pressed_hover_play_button.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,2 @@
+dist/人脸识别程序.exe filter=lfs diff=lfs merge=lfs -text
+src/FaceDetectionClient/FaceDetectionClient/model/seeta_fr_v1.0.bin filter=lfs diff=lfs merge=lfs -text
